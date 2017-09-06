@@ -7,6 +7,6 @@ def fizzbuzz(value)
     elsif value%3 == 0 && value%3 == 0
         "FizzBuzz"
     else
-          " "
+          "nil"
     end
 end
