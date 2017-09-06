@@ -1,12 +1,12 @@
 def fizzbuzz(value)
     #puts "#{value}"
     if value % 3 == 0
-        puts "Fizz"
+        "Fizz"
     elsif value%5 == 0
-          puts "Buzz"
+        "Buzz"
     elsif value%15 == 0
-          puts "FizzBuzz"
+        "FizzBuzz"
     else
-          puts " "
+          " "
     end
 end
