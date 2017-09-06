@@ -5,7 +5,7 @@ def fizzbuzz(value)
         "Fizz"
     elsif value%5 == 0
         "Buzz"
-  
+
     else
         puts "nil"
     end
