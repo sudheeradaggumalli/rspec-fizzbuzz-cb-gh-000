@@ -1,5 +1,5 @@
 def fizzbuz(value)
-    if value%%3==0
+    if value%3==0
           puts "Fizz"
     elsif value%5==0
           puts "Buzz"
